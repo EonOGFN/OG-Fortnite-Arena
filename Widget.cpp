@@ -6,7 +6,7 @@ void AddArenaWidget()
     
     FPlaylistUIExtension UIExtension;
     UIExtension.Slot = EPlaylistUIExtensionSlot::Primary;
-    UIExtension.WidgetClass.ObjectID.AssetPathName = UKismetStringLibrary::Conv_StringToName("/Game/UI/Frontend/Showdown/ShowdownScoringHUD.ShowdownScoringHUD_C");
+    UIExtension.WidgetClass.ObjectID.AssetPathName = UKismetStringLibrary::Conv_StringToName("/Game/UI/Frontend/Showdown/ShowdownScoringHUD.ShowdownScoringHUD_C"); // If it doesn't work, use "/Game/UI/Competitive/Arena/ArenaScoringHUD.ArenaScoringHUD_C"
   
     Playlist->UIExtensions.Add(UIExtension);
 }
