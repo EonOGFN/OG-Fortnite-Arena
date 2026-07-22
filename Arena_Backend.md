@@ -796,7 +796,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -832,7 +832,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -868,7 +868,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -904,7 +904,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -940,7 +940,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -976,7 +976,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1012,7 +1012,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1048,7 +1048,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1084,7 +1084,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1120,7 +1120,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1156,7 +1156,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1192,7 +1192,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1228,7 +1228,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1264,7 +1264,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1300,7 +1300,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1336,7 +1336,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1372,7 +1372,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1408,7 +1408,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1444,7 +1444,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1480,7 +1480,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1516,7 +1516,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1552,7 +1552,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1588,7 +1588,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1624,7 +1624,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1660,7 +1660,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1696,7 +1696,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1732,7 +1732,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1768,7 +1768,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1804,7 +1804,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1840,7 +1840,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1876,7 +1876,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1912,7 +1912,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1948,7 +1948,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -1984,7 +1984,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -2020,7 +2020,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -2056,7 +2056,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -2092,7 +2092,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -2128,7 +2128,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -2164,7 +2164,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
@@ -2200,7 +2200,7 @@
          },
          {
             "matchRule": "gte",
-            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 5}],
+            "rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
             "trackedStat": "TEAM_ELIMS_STAT_INDEX"
          }
       ]
